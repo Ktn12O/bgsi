@@ -1,0 +1,21 @@
+{
+  "version": "V0.01",
+  "rifts": [
+    "bubble-rift",
+    "crystal-egg",
+    "cyber-egg",
+    "dice-rift",
+    "gift-rift",
+    "golden-chest",
+    "hell-egg",
+    "lunar-egg",
+    "magma-egg",
+    "mining-egg",
+    "nightmare-egg",
+    "rainbow-egg",
+    "royal-chest",
+    "spikey-egg",
+    "underworld-0",
+    "void-egg"
+  ]
+}
