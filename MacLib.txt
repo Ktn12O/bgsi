@@ -2093,6 +2093,27 @@ function MacLib:Window(Settings)
 
 				function SectionFunctions:Input(Settings, Flag)
                     print(1)
+                    function tableToString(tbl, indent)
+                        indent = indent or 0
+                        local result = "{\n"
+                        local indentStr = string.rep("  ", indent + 1)
+                        
+                        for key, value in pairs(tbl) do
+                            local keyStr = type(key) == "string" and string.format("%q", key) or tostring(key)
+                            
+                            if type(value) == "table" then
+                                result = result .. indentStr .. "[" .. keyStr .. "] = " .. tableToString(value, indent + 1) .. ",\n"
+                            elseif type(value) == "string" then
+                                result = result .. indentStr .. "[" .. keyStr .. "] = " .. string.format("%q", value) .. ",\n"
+                            else
+                                result = result .. indentStr .. "[" .. keyStr .. "] = " .. tostring(value) .. ",\n"
+                            end
+                        end
+                        
+                        result = result .. string.rep("  ", indent) .. "}"
+                        return result
+                    end
+
 					local InputFunctions = { Settings = Settings, IgnoreConfig = false, Class = "Input" }
 					local input = Instance.new("Frame")
 					input.Name = "Input"
@@ -2268,7 +2289,7 @@ function MacLib:Window(Settings)
 					end
                     print("DONE")
                     print(InputFunctions)
-                    print(#InputFunctions)
+                    print(tableToString(InputFunctions))
 					return InputFunctions
 				end
 
