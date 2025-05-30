@@ -1,5 +1,6 @@
 {
   "version": "V0.01",
+  "events": "SummerFestival",
   "eggs": {
     "Common Egg": {
       "world": "The Overworld",
