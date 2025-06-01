@@ -56,25 +56,26 @@
 			"world": "The Overworld",
 			"island": "Zen",
 			"position": [-37, 15974, 49]
-		},
-		"rifts": [
-			"bubble-rift",
-			"crystal-egg",
-			"cyber-egg",
-			"dice-rift",
-			"gift-rift",
-			"golden-chest",
-			"hell-egg",
-			"lunar-egg",
-			"magma-egg",
-			"mining-egg",
-			"nightmare-egg",
-			"rainbow-egg",
-			"royal-chest",
-			"spikey-egg",
-			"void-egg"
-		]
+		}
 	},
+	"rifts": [
+		"bubble-rift",
+		"crystal-egg",
+		"cyber-egg",
+		"dice-rift",
+		"gift-rift",
+		"golden-chest",
+		"hell-egg",
+		"lunar-egg",
+		"magma-egg",
+		"mining-egg",
+		"nightmare-egg",
+		"rainbow-egg",
+		"royal-chest",
+		"spikey-egg",
+		"void-egg"
+	],
+
 	"petImages": {
 		"Doggy": {
 			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/0/09/Doggy.png/revision/latest?cb=20250412205511",
