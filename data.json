@@ -400,6 +400,61 @@
 			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/5/57/Da_Cool_Trio.png/revision/latest?cb=20250630020459",
 			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/3/38/Shiny_Da_Cool_Trio.png/revision/latest?cb=20250630025219"
 		},
+		"Light_Lord": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/c/cc/Light_Lord.png/revision/latest?cb=20250706225302",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/d/df/Shiny_Light_Lord.png/revision/latest?cb=20250706225310"
+		},
+		"King_Mush": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/2/24/King_Mush.png/revision/latest?cb=20250706211817",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/3/39/Shiny_King_Mush.png/revision/latest?cb=20250706211826",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/b/b9/Mythic_King_Mush.png/revision/latest?cb=20250706211844",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/f/f6/Shiny_Mythic_King_Mush.png/revision/latest?cb=20250706211851"
+		},
+		"Frost_Defender": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/c/ce/Frost_Defender.png/revision/latest?cb=20250706215952",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/f/f4/Shiny_Frost_Defender.png/revision/latest?cb=20250706220102",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/b/be/Mythic_Frost_Defender.png/revision/latest?cb=20250706220112",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/3/3a/Shiny_Mythic_Frost_Defender.png/revision/latest?cb=20250706220121"
+		},
+		"Dark_Guardian": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/7/79/Dark_Guardian.png/revision/latest?cb=20250706212107",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/1/1a/Shiny_Dark_Guardian.png/revision/latest?cb=20250706212118",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/1/1c/Mythic_Dark_Guardian.png/revision/latest?cb=20250706212132",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/5/5f/Shiny_Mythic_Dark_Guardian.png/revision/latest?cb=20250706212148"
+		},
+		"Destiny": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/1/1f/Destiny.png/revision/latest?cb=20250712201712"
+		},
+		"Diamond_Overlord": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/d/d3/Diamond_Overlord.png/revision/latest?cb=20250712200939",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/d/d7/Shiny_Diamond_Overlord.png/revision/latest?cb=20250712210935",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/6/64/Mythic_Diamond_Overlord.png/revision/latest?cb=20250712210915",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/1/1e/Shiny_Mythic_Diamond_Overlord.png/revision/latest?cb=20250712210925"
+		},
+		"Super_Trophy": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/8/8b/Super_Trophy.png/revision/latest?cb=20250712200951",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/d/dd/Shiny_Super_Trophy.png/revision/latest?cb=20250712210626",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/e/e8/Mythic_Super_Trophy.png/revision/latest?cb=20250712210614",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/b/b8/Shiny_Mythic_Super_Trophy.png/revision/latest?cb=20250712210637"
+		},
+		"Eternal_Star": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/1/1b/Eternal_Star.png/revision/latest?cb=20250712200959",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/1/18/Shiny_Eternal_Star.png/revision/latest?cb=20250712210651",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/a/aa/Mythic_Eternal_Star.png/revision/latest?cb=20250712210817",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/2/2e/Shiny_Mythic_Eternal_Star.png/revision/latest?cb=20250712210751"
+		},
+		"Fallen_Angel": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/1/1d/Fallen_Angel.png/revision/latest?cb=20250712201003",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/0/08/Shiny_Fallen_Angel.png/revision/latest?cb=20250712210734",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/3/30/Mythic_Fallen_Angel.png/revision/latest?cb=20250712210844",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/4/4f/Shiny_Mythic_Fallen_Angel.png/revision/latest?cb=20250712210835"
+		},
+		"King_Kitty": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/3/3d/King_Kitty.png/revision/latest?cb=20250712201009",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/c/ce/Shiny_King_Kitty.png/revision/latest?cb=20250712210806",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/1/13/Mythic_King_Kitty.png/revision/latest?cb=20250712210826",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/5/50/Shiny_Mythic_King_Kitty.png/revision/latest?cb=20250712210857"
+		},
 		"Doggy": {
 			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/0/09/Doggy.png/revision/latest?cb=20250412205511",
 			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/e/e4/Shiny_Doggy.png/revision/latest?cb=20250417160320"
@@ -796,46 +851,6 @@
 			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/b/b0/Mythic_Ring_Master.png/revision/latest?cb=20250517232138",
 			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/f/f1/Shiny_Mythic_Ring_Master.png/revision/latest?cb=20250517232200"
 		},
-		"Trio_Cube": {
-			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/7/71/Trio_Cube.png/revision/latest?cb=20250413011453",
-			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/9/94/Shiny_Trio_Cube.png/revision/latest?cb=20250414013910",
-			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/d/dd/Mythic_Trio_Cube.png/revision/latest?cb=20250413160015",
-			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/9/90/Shiny_Mythic_Trio_Cube.png/revision/latest?cb=20250414013924"
-		},
-		"Sir_Doggyton": {
-			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/7/72/Sir_Doggyton.png/revision/latest?cb=20250511040738",
-			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/e/e7/Shiny_Sir_Doggyton.png/revision/latest?cb=20250511040908",
-			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/0/0b/Mythic_Sir_Doggyton.png/revision/latest?cb=20250511041002",
-			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/9/9d/Shiny_Mythic_Sir_Doggyton.png/revision/latest?cb=20250511041025"
-		},
-		"Holy_Shock": {
-			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/7/76/Holy_Shock.png/revision/latest?cb=20250415155837",
-			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/a/af/Shiny_Holy_Shock.png/revision/latest?cb=20250424190127"
-		},
-		"Evil_Shock": {
-			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/b/b1/Evil_Shock.png/revision/latest?cb=20250413012016",
-			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/4/40/Shiny_Evil_Shock.png/revision/latest?cb=20250414015806"
-		},
-		"Rainbow_Blitz": {
-			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/1/13/Rainbow_Blitz.png/revision/latest?cb=20250414062026",
-			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/a/a6/Shiny_Rainbow_Blitz.png/revision/latest?cb=20250414062033"
-		},
-		"King_Soul": {
-			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/5/50/King_Soul.png/revision/latest?cb=20250414064317",
-			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/a/ae/Shiny_King_Soul.png/revision/latest?cb=20250414064322"
-		},
-		"Demonic_Dogcat": {
-			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/c/c2/Demonic_Dogcat.png/revision/latest?cb=20250418013501",
-			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/3/35/Shiny_Demonic_Dogcat.png/revision/latest?cb=20250424190153"
-		},
-		"Cerberus": {
-			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/4/45/Cerberus.png/revision/latest?cb=20250517200230",
-			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/c/c0/Shiny_Cerberus.png/revision/latest?cb=20250518001937"
-		},
-		"Security_System": {
-			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/0/0a/Security_System.png/revision/latest?cb=20250517200300",
-			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/c/c9/Shiny_Security_System.png/revision/latest?cb=20250518000751"
-		},
 		"Moonburst": {
 			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/a/ab/Moonburst.png/revision/latest?cb=20250412221232",
 			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/1/1a/Shiny_Moonburst.png/revision/latest?cb=20250414061126",
@@ -898,19 +913,45 @@
 			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/6/6f/Mythic_Pixel_Hydra.png/revision/latest?cb=20250630025146",
 			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/0/06/Shiny_Mythic_Pixel_Hydra.png/revision/latest?cb=20250630030917"
 		},
-		"Discord_Imp": {
-			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/b/b0/Discord_Imp.png/revision/latest?cb=20250413015739",
-			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/e/e5/Shiny_Discord_Imp.png/revision/latest?cb=20250419031440"
+		"Holy_Shock": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/7/76/Holy_Shock.png/revision/latest?cb=20250415155837",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/a/af/Shiny_Holy_Shock.png/revision/latest?cb=20250424190127"
 		},
-		"Easter_Fluffle": {
-			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/6/6c/Easter_Fluffle.png/revision/latest?cb=20250419030257",
-			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/c/ce/Shiny_Easter_Fluffle.png/revision/latest?cb=20250421031348"
+		"Evil_Shock": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/b/b1/Evil_Shock.png/revision/latest?cb=20250413012016",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/4/40/Shiny_Evil_Shock.png/revision/latest?cb=20250414015806"
 		},
-		"Chocolate_Bunny": {
-			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/d/d4/Chocolate_Bunny.png/revision/latest?cb=20250418221657",
-			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/5/56/Shiny_Chocolate_Bunny.png/revision/latest?cb=20250426024955",
-			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/2/24/Mythic_Chocolate_Bunny.png/revision/latest?cb=20250419013120",
-			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/1/17/Shiny_Mythic_Chocolate_Bunny.png/revision/latest?cb=20250426025013"
+		"Rainbow_Blitz": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/1/13/Rainbow_Blitz.png/revision/latest?cb=20250414062026",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/a/a6/Shiny_Rainbow_Blitz.png/revision/latest?cb=20250414062033"
+		},
+		"King_Soul": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/5/50/King_Soul.png/revision/latest?cb=20250414064317",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/a/ae/Shiny_King_Soul.png/revision/latest?cb=20250414064322"
+		},
+		"Demonic_Dogcat": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/c/c2/Demonic_Dogcat.png/revision/latest?cb=20250418013501",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/3/35/Shiny_Demonic_Dogcat.png/revision/latest?cb=20250424190153"
+		},
+		"Cerberus": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/4/45/Cerberus.png/revision/latest?cb=20250517200230",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/c/c0/Shiny_Cerberus.png/revision/latest?cb=20250518001937"
+		},
+		"Security_System": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/0/0a/Security_System.png/revision/latest?cb=20250517200300",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/c/c9/Shiny_Security_System.png/revision/latest?cb=20250518000751"
+		},
+		"Trio_Cube": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/7/71/Trio_Cube.png/revision/latest?cb=20250413011453",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/9/94/Shiny_Trio_Cube.png/revision/latest?cb=20250414013910",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/d/dd/Mythic_Trio_Cube.png/revision/latest?cb=20250413160015",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/9/90/Shiny_Mythic_Trio_Cube.png/revision/latest?cb=20250414013924"
+		},
+		"Sir_Doggyton": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/7/72/Sir_Doggyton.png/revision/latest?cb=20250511040738",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/e/e7/Shiny_Sir_Doggyton.png/revision/latest?cb=20250511040908",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/0/0b/Mythic_Sir_Doggyton.png/revision/latest?cb=20250511041002",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/9/9d/Shiny_Mythic_Sir_Doggyton.png/revision/latest?cb=20250511041025"
 		},
 		"Midas": {
 			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/d/d8/Midas.png/revision/latest?cb=20250424021558",
@@ -938,10 +979,6 @@
 			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/0/05/Mythic_Infernal.png/revision/latest?cb=20250602215134",
 			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/3/32/Shiny_Mythic_Infernal.png/revision/latest?cb=20250602215206"
 		},
-		"Captain_Bruh": {
-			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/e/e6/Captain_Bruh.png/revision/latest?cb=20250607203721",
-			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/2/24/Shiny_Captain_Bruh.png/revision/latest?cb=20250607203820"
-		},
 		"Dream_Catcher": {
 			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/3/31/Dream_Catcher.png/revision/latest?cb=20250617040040",
 			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/3/35/Shiny_Dream_Catcher.png/revision/latest?cb=20250617071055",
@@ -954,9 +991,62 @@
 			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/7/79/Mythic_Stained_Star.png/revision/latest?cb=20250617072623",
 			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/3/3f/Shiny_Mythic_Stained_Star.png/revision/latest?cb=20250617072633"
 		},
+		"Discord_Imp": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/b/b0/Discord_Imp.png/revision/latest?cb=20250413015739",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/e/e5/Shiny_Discord_Imp.png/revision/latest?cb=20250419031440"
+		},
+		"Easter_Fluffle": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/6/6c/Easter_Fluffle.png/revision/latest?cb=20250419030257",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/c/ce/Shiny_Easter_Fluffle.png/revision/latest?cb=20250421031348"
+		},
+		"Captain_Bruh": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/e/e6/Captain_Bruh.png/revision/latest?cb=20250607203721",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/2/24/Shiny_Captain_Bruh.png/revision/latest?cb=20250607203820"
+		},
 		"Glorp_Bruh": {
 			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/2/28/Glorp_Bruh.png/revision/latest?cb=20250622193610",
 			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/b/b8/Shiny_Glorp_Bruh.png/revision/latest?cb=20250622210128"
+		},
+		"Chocolate_Bunny": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/d/d4/Chocolate_Bunny.png/revision/latest?cb=20250418221657",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/5/56/Shiny_Chocolate_Bunny.png/revision/latest?cb=20250426024955",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/2/24/Mythic_Chocolate_Bunny.png/revision/latest?cb=20250419013120",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/1/17/Shiny_Mythic_Chocolate_Bunny.png/revision/latest?cb=20250426025013"
+		},
+		"Winged_Doggy": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/a/a1/Winged_Doggy.png/revision/latest?cb=20250712182004",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/1/1e/Shiny_Winged_Doggy.png/revision/latest?cb=20250712182257"
+		},
+		"Spitty": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/6/67/Spitty.png/revision/latest?cb=20250712182218",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/2/2d/Shiny_Spitty.png/revision/latest?cb=20250712182012"
+		},
+		"Paragon": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/1/1e/Paragon.png/revision/latest?cb=20250712182026",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/b/b2/Shiny_Paragon.png/revision/latest?cb=20250712182455",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/7/70/Mythic_Paragon.png/revision/latest?cb=20250712182513",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/7/76/Shiny_Mythic_Paragon.png/revision/latest?cb=20250712182611"
+		},
+		"Platinum_Dualcorn": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/4/42/Platinum_Dualcorn.png/revision/latest?cb=20250712182713",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/2/22/Shiny_Platinum_Dualcorn.png/revision/latest?cb=20250712182815",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/5/54/Mythic_Platinum_Dualcorn.png/revision/latest?cb=20250712182736",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/8/83/Shiny_Mythic_Platinum_Dualcorn.png/revision/latest?cb=20250712182824"
+		},
+		"Super_Hexarium": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/2/26/Super_Hexarium.png/revision/latest?cb=20250712185707",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/f/fc/Shiny_Super_Hexarium.png/revision/latest?cb=20250712205006",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/1/11/Mythic_Super_Hexarium.png/revision/latest?cb=20250712205043",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/f/ff/Shiny_Mythic_Super_Hexarium.png/revision/latest?cb=20250712205247"
+		},
+		"Glitch": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/0/01/Glitch.png/revision/latest?cb=20250712183233",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/e/e2/Mythic_Glitch.png/revision/latest?cb=20250712204941",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/a/a1/Shiny_Mythic_Glitch.png/revision/latest?cb=20250712205233"
+		},
+		"Giant_Robot": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/a/a2/Giant_Robot.png/revision/latest?cb=20250712201014",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/0/08/Mythic_Giant_Robot.png/revision/latest?cb=20250712210708"
 		},
 		"Patriotic_Doggy": {
 			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/2/21/Patriotic_Doggy.png/revision/latest?cb=20250630021553",
@@ -1660,6 +1750,18 @@
 			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/0/0a/Mythic_Elite_Soul.png/revision/latest?cb=20250427073047",
 			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/2/26/Shiny_Mythic_Elite_Soul.png/revision/latest?cb=20250504213437"
 		},
+		"Geometric_Dominus": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/0/0c/Geometric_Dominus.png/revision/latest?cb=20250706210128",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/b/b6/Shiny_Geometric_Dominus.png/revision/latest?cb=20250706212446",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/0/0b/Mythic_Geometric_Dominus.png/revision/latest?cb=20250706210152",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/0/05/Shiny_Mythic_Geometric_Dominus.png/revision/latest?cb=20250706212453"
+		},
+		"Patriotic_Soul": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/5/5f/Patriotic_Soul.png/revision/latest?cb=20250706210139",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/8/8c/Shiny_Patriotic_Soul.png/revision/latest?cb=20250706212431",
+			"Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/5/53/Mythic_Patriotic_Soul.png/revision/latest?cb=20250706212411",
+			"Shiny Mythic": "https://static.wikia.nocookie.net/bgs-infinity/images/e/e4/Shiny_Mythic_Patriotic_Soul.png/revision/latest?cb=20250706212421"
+		},
 		"Tole_Cat": {
 			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/0/02/Tole_Cat.png/revision/latest?cb=20250630024223",
 			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/9/93/Shiny_Tole_Cat.png/revision/latest?cb=20250630095223",
@@ -1780,9 +1882,47 @@
 			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/6/69/Dowodle.png/revision/latest?cb=20250413015138",
 			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/9/98/Shiny_Dowodle.png/revision/latest?cb=20250414020743"
 		},
+		"Archduke_Federation": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/3/35/Archduke_Federation.png/revision/latest?cb=20250706211005",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/1/1f/Shiny_Archduke_Federation.png/revision/latest?cb=20250706221318"
+		},
+		"Duchess_Federation": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/2/21/Duchess_Federation.png/revision/latest?cb=20250706211032",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/2/28/Shiny_Duchess_Federation.png/revision/latest?cb=20250706223527"
+		},
+		"Archduchess_Federation": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/8/80/Archduchess_Federation.png/revision/latest?cb=20250706211125",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/6/69/Shiny_Archduchess_Federation.png/revision/latest?cb=20250706233012"
+		},
+		"Duke_Federation": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/e/e1/Duke_Federation.png/revision/latest?cb=20250706211043",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/4/49/Shiny_Duke_Federation.png/revision/latest?cb=20250706223625"
+		},
+		"Lord_Federation": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/6/64/Lord_Federation.png/revision/latest?cb=20250706210316",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/1/14/Shiny_Lord_Federation.png/revision/latest?cb=20250706221510"
+		},
+		"Lady_Federation": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/c/c5/Lady_Federation.png/revision/latest?cb=20250706211019",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/e/e2/Shiny_Lady_Federation.png/revision/latest?cb=20250706221231"
+		},
+		"Countess_Federation": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/b/b3/Countess_Federation.png/revision/latest?cb=20250706210303",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/0/0b/Shiny_Countess_Federation.png/revision/latest?cb=20250706221414"
+		},
+		"Earl_Federation": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/0/02/Earl_Federation.png/revision/latest?cb=20250706211053",
+			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/6/6f/Shiny_Earl_Federation.png/revision/latest?cb=20250706221656"
+		},
 		"Flying_Gem": {
 			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/1/1a/Flying_Gem.png/revision/latest?cb=20250414215335",
 			"Shiny": "https://static.wikia.nocookie.net/bgs-infinity/images/5/5c/Shiny_Flying_Gem.png/revision/latest?cb=20250418235201"
+		},
+		"Jawbreaker_Elemental": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/d/d0/Jawbreaker_Elemental.png/revision/latest?cb=20250712185550"
+		},
+		"D.I.Y_Robot": {
+			"Normal": "https://static.wikia.nocookie.net/bgs-infinity/images/f/fb/D.I.Y_Robot.png/revision/latest?cb=20250712184654"
 		}
 	}
 }
